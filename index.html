@@ -97,6 +97,34 @@
         .readable-content {
             color: #D3D3D3;
         }
+        /* Responsive design */
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            .banner {
+                font-size: 1.2em;
+                margin-bottom: 20px;
+            }
+            .section h2::after {
+                content: '----------------------------------------------';
+                font-size: 10px;
+            }
+            .command {
+                font-size: 1em;
+            }
+            #command-prompt {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            #prompt {
+                margin-bottom: 10px;
+            }
+            #commandInput {
+                width: 100%;
+                font-size: 1em;
+            }
+        }
     </style>
 </head>
 <body>
@@ -107,7 +135,7 @@
       /  /_\  \   |  . `  |     |  |     |  | |  | |_ | |  |\/|  |   /  /_\  \
      /  _____  \  |  |\   |     |  |     |  | |  |__| | |  |  |  |  /  _____  \
     /__/     \__\ |__| \__|     |__|     |__|  \______| |__|  |__| /__/     \__\
-                                                                             
+
     </pre>
     <div id="intro" class="section readable-content">
         <h2>Welcome to <span class="project-name">Antigma</span></h2>
@@ -150,7 +178,7 @@
     <div id="command-line">
         <p>Type or click <a class="command" onclick="navigate('intro')">intro</a>, <a class="command" onclick="navigate('articles')">articles</a>, or <a class="command" onclick="navigate('team')">team</a> to navigate:</p>
         <div id="command-prompt">
-            <span id="prompt">guest@antigma.ai:~$</span>
+            <span id="prompt">czh@czh-mbp:~$</span>
             <input type="text" id="commandInput" autocomplete="off">
             <span class="cursor"></span>
         </div>
@@ -209,4 +237,5 @@
     </script>
 </body>
 </html>
+
 
