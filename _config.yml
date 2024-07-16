@@ -18,21 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: antigma
+title: Antigma
 email: contact@antigma.ai
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "Antigma Labs"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "antigma.ai" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://antigmalabs.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
   - index.md
 
 style: hacker
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: >
+  <div class="social-links">
+    follow us on <a href="https://x.com/antigma_labs">
+      Twitter
+    </a>
+  </div>
 
 # Build settings
 markdown: kramdown

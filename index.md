@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-# Antigma Manifesto (v3)
+# Antigma Manifesto
 In the foreword to "The Sovereign Individual," Peter Thiel famously put AI and crypto at opposite ends of future conflicts. He saw AI enabling central control over the economy, while crypto offered a decentralized, individualized world. While acknowledging this dichotomy, we propose a different vision: these technologies are not “two extreme poles of the great conflicts”, but convergent and complementing forces that will reshape our future.
 
 The relationship between AI and crypto traces back to their shared origins. In 1939, Alan Turing joined Britain's codebreaking center at Bletchley Park, where the first computer was born to break the Enigma cipher. This moment intertwined the fates of AI and cryptography, setting the stage for our current technological revolution.
