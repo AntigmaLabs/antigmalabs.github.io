@@ -21,8 +21,9 @@
 title: Antigma
 email: contact@antigma.ai
 description: "Antigma Labs"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://antigmalabs.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/antigma.github.io
+" # the subpath of your site, e.g. /blog
+url: "https://antigmalabs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
   - index.md
