@@ -25,13 +25,14 @@ url: "https://antigmalabs.github.io" # the base hostname & protocol for your sit
 
 header_pages:
   - index.md
+  - the_crypto_way.md
 
 style: hacker
 
 footer: >
   <div class="social-links">
     follow us on <a href="https://x.com/antigma_labs">
-      Twitter
+      twitter
     </a>
   </div>
 
