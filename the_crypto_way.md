@@ -5,7 +5,7 @@ permalink: /crypto/
 ---
 
 # The Crypto Way
-We will do it the crypto way, especially now when it is associated with scams, pump and dump schemes, and get-rich-quick thirst traps. Even some respected OGs have started to privately view it as "Glorified Casinos," thinking in terms of "Regulation Arbitrage." Maybe they lost their faith after FTX and SVB, and who can blame them? But we remember.
+We will do it the crypto way, especially now when it is associated with scams, pump-and-dump schemes, and get-rich-quick thirst traps. Even some respected OGs have started to view it as "Glorified Casinos", thinking in terms of "Regulation Arbitrage". Maybe they lost their faith after FTX and SVB, and who can blame them? But we remember.
 
 We remember the practical idealists (Satoshis) who started Bitcoin with a grand vision but assumed the worst. A peer-to-peer payment network that is NOT built with "love" or wishy-washy smoke-and-mirrors, but with the ethos of "don't trust, verify" and the weight of the longest history.
 
